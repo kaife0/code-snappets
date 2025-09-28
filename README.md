@@ -251,12 +251,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Vercel](https://vercel.com) for hosting and deployment
 - [Highlight.js](https://highlightjs.org) community for syntax highlighting
 
-## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/kaife0/code-snippets?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kaife0/code-snippets?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kaife0/code-snippets)
-![GitHub license](https://img.shields.io/github/license/kaife0/code-snippets)
 
 ---
 
