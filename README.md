@@ -4,7 +4,7 @@
 
 A modern, feature-rich web application that transforms your code into beautiful, customizable images perfect for social media, documentation, presentations, and more.
 
-![Code-Snippets Preview](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Code-Snippets+Preview)
+![Code-Snippets Preview](./public/home.png)
 
 ## ✨ Features
 
@@ -64,14 +64,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## 📸 Screenshots
 
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x500/1a1a1a/ffffff?text=Main+Interface+Screenshot)
+### Home Interface
+![Home Interface](./public/home.png)
+*Clean, intuitive interface with theme selection and customization controls*
 
-### Theme Selection
-![Theme Selection](https://via.placeholder.com/800x300/2d1b69/ffffff?text=Theme+Selection)
-
-### Export Options
-![Export Options](https://via.placeholder.com/400x300/0f172a/ffffff?text=Export+Options)
+### Application View
+![Application Interface](./public/app.png)
+*Full application view showing code editor, themes, and export options*
 
 ## 🛠️ Built With
 
@@ -244,9 +243,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Write meaningful commit messages
 - Add comments for complex logic
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
